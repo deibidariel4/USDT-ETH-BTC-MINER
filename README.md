@@ -1,4 +1,4 @@
-# 👽🔒 Crypto Miner (USDT, ETH, BTC, and Other) - Mining Framework
+# 👽🔒 Crypto Miner (USDT, ETH, BTC, and Other)
 
 Welcome to the repository for the "Crypto Miner (USDT, ETH, BTC, and Other)"! Here you will find a powerful mining framework designed to efficiently mine cryptocurrencies while maximizing profitability and minimizing resource usage.
 
